@@ -1,6 +1,8 @@
 # Olá! eu sou Mesaque
 🌱 Estudando Laravel/PHP
 
+🌱 Estudando Vue.js
+
 👨‍💻  Sempre Programando
 
 

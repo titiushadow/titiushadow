@@ -30,7 +30,7 @@ My name is Mesaque, and I'm a student at FATEC. I'm web developer.
 <div> 
  
   ![Snake animation](https://github.com/titiushadow/titiushadow/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
 
 

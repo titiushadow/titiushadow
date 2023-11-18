@@ -1,11 +1,10 @@
-# Olá! eu sou Mesaque
-❤️ HTML, CSS
+#  Hi There! 👋
+My name is Mesaque, and I'm a student at FATEC. I'm web developer.
 
-❤️ Javascript
-
-👨‍💻  Sempre Programando
-
-
+- 🎓 Studying at FATEC
+- 💻 Tech enthusiast
+- 💡 Always ready for new challenges
+  
 <div>
   <a href="https://github.com/titiushadow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titiushadow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,13 +21,13 @@
   <img align="center" alt="titiushadow-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 </div>
 
-  ## Contato
+  ## Contact
 <div>
    <a href="https://api.whatsapp.com/send?phone=5518991144799" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/mesaque1212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:mesaque1212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"                 target="_blank"></a>
     <a href="https://www.linkedin.com/in/mesaque-de-souza-mois%C3%A9s-7860371a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a> 
-  </div>
+</div>
 
 
 

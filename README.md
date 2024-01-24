@@ -1,7 +1,7 @@
 #  Hi There! 👋
 My name is Mesaque, and I'm a student at FATEC. I'm web developer.
 
-- 🎓 Studying at FATEC
+- 🎓 Studying at Unicesumar
 - 💻 Tech enthusiast
 - 💡 Always ready for new challenges
   

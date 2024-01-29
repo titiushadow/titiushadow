@@ -1,5 +1,5 @@
 #  Hi There! 👋
-My name is Mesaque, and I'm a student at FATEC. I'm web developer.
+My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
 
 - 🎓 Studying at Unicesumar
 - 💻 Tech enthusiast
@@ -18,6 +18,8 @@ My name is Mesaque, and I'm a student at FATEC. I'm web developer.
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 </div>
 
 ## Contact
@@ -27,6 +29,3 @@ My name is Mesaque, and I'm a student at FATEC. I'm web developer.
   <a href="mailto:mesaque1212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mesaque-de-souza-mois%C3%A9s-7860371a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-

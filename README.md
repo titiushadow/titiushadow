@@ -1,5 +1,5 @@
 #  Hi There! 👋
-My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
+I'm Mesaque, web developer. I currently work as a freelance developer. I also course systems analysis and development at unicesumar.
 
 - 🎓 Studying at Unicesumar
 - 💻 Tech enthusiast

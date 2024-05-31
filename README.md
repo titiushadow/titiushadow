@@ -10,6 +10,12 @@ My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titiushadow&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/titiushadow/titiushadow/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/titiushadow/titiushadow/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/titiushadow/titiushadow/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div style="display: inline_block"><br>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,6 +26,8 @@ My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
+
+
 
 ## Contact
 <div>

@@ -27,8 +27,6 @@ My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
-
-
 ## Contact
 <div>
   <a href="https://api.whatsapp.com/send?phone=5518991144799" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>

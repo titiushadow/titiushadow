@@ -5,10 +5,7 @@ My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
 - 💻 Tech enthusiast
 - 💡 Always ready for new challenges
   
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titiushadow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titiushadow&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<a href="http://www.github.com/titiushadow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=titiushadow&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/titiushadow/titiushadow/output/github-contribution-grid-snake-dark.svg">
@@ -18,19 +15,13 @@ My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
 
 <div style="display: inline_block"><br>
 
-  #### Languages
+  #### Technologies
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-  #### Framework
-  
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-  #### Database
-  
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </div>

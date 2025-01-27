@@ -1,5 +1,5 @@
 #  Hi There! 👋
-My name is Mesaque, and I'm a student at Unicesumar. I'm web developer.
+My name is Mesaque, I have a degree in Systems Analysis and Development and I am studying for an MBA in Project Management and Agile Methodologies at PUCRS.
 
 - 🎓 Studying at PUCRS - MBA em Gestão de Projetos e Metodologias Ágeis
 - 💻 Tech enthusiast
